@@ -1,8 +1,8 @@
-def add(a, b):
+def add(a: float, b: float) -> float:
     """Выполняет сложение"""
     return a + b
 
 
-def sub(a, b):
+def sub(a: float, b: float) -> float:
     """Выполняет вычитание"""
     return a - b
