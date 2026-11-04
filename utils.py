@@ -17,3 +17,6 @@ def div(a, b):
 
 def neg(a):
     return -a
+
+def sqr(a):
+    return a*a
