@@ -9,3 +9,7 @@ def sub(a: float, b: float) -> float:
 
 def mul(a, b):
     return a * b
+
+
+def div(a, b):
+    return a / b
