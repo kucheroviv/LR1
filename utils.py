@@ -13,3 +13,7 @@ def mul(a, b):
 
 def div(a, b):
     return a / b
+
+
+def sqr(a):
+    return a*a
