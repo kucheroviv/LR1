@@ -4,7 +4,7 @@ def add(a: float, b: float) -> float:
 
 
 def sub(a: float, b: float) -> float:
-    """Выполняет вычитание"""
+    """Выполняет вычитание двух чисел"""
     return a - b
 
 
