@@ -6,3 +6,6 @@ def add(a: float, b: float) -> float:
 def sub(a: float, b: float) -> float:
     """Выполняет вычитание"""
     return a - b
+
+def mul(a, b):
+    return a * b
