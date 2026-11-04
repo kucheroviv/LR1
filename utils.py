@@ -20,3 +20,6 @@ def neg(a):
 
 def sqr(a):
     return a*a
+
+def power(a, b):
+    return a ** b
